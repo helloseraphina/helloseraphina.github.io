@@ -21,6 +21,11 @@ entries:
   - title: say hello!
     entries:
       - title: "Please feel free to connect on <a href='https://www.linkedin.com/in/seraphinafong/'>LinkedIn</a>"
+  - title: links
+    entries:
+      - title: "<a href='https://scholar.google.com/citations?user=lW6_vKQAAAAJ'>Google Scholar</a>"
+      - title: "<a href='https://x.com/heyseraphina'>Twitter/X</a>"
+      - title: "<a href='mailto:meiyueseraphina.fong@unitn.it'>email</a>"
 
   # - title: all posts
   #   post_list:
