@@ -4,35 +4,47 @@
 entries:
   - title: info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: Singaporean currently in Italy. 
+      - title: Currently a Research Fellow at the University of Trento, Italy, implementing natural language processing and computer vision techniques for clinical psychology and healthcare research.
+      - title: Passionate about working towards making AI socially inclusive and accessible.
+      - title: More broadly, my interests lie in artificial intelligence, natural language processing, speech/language technology, and brain-computer interfaces.
+      - title: Outside of my professional and academic life, sometimes I learn to dance `ori tahiti, other times I take film photos, but most of the time I like to paint.
+      # - title: github repo
+      #   url: https://github.com/riggraz/no-style-please
+  - title: highlights
+    entries:
+      - title: **October 2023**: I graduated with honours and obtained a M.Sc. in Cognitive Science from the the University of Trento, Italy. My thesis focused on investigating the feasibility of speaker-independent deep learning voice conversion approaches (e.g., [StarGAN](https://github.com/liusongxiang/StarGAN-Voice-Conversion), [PPG-VC](https://github.com/liusongxiang/ppg-vc)) to improve speech from English speaking [patients with dysarthria](http://www.isle.illinois.edu/sst/data/UASpeech/index.html). I was supervised by [Dr. Alessio Brutti](https://scholar.google.it/citations?user=dS643iQAAAAJ&hl=en) (FBK) and [Professor Gianluca Esposito](https://scholar.google.it/citations?hl=en&user=ehhpFjQAAAAJ) (Uni Trento).
+      - title: **August 2023**: I attended the [12th ISCA Speech Synthesis Workshop](https://ssw2023.org/) in Grenoble, France. Preliminary results from my master's thesis were accepted as a [late-breaking report](https://www.isca-speech.org/archive/ssw_2023/fong23b_ssw.html) and presented as a poster at the workshop.
+      - title: **September 2022 - October 2023**: I was a research intern at the [Speech Technology Lab](https://speechtek.fbk.eu/) at the Bruno Kessler Foundation (FBK).
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+  - title: say hello!
+    entries:
+      - Please feel free to connect on [LinkedIn](https://www.linkedin.com/in/seraphinafong/)
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+  # - title: all posts
+  #   post_list:
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: See archive...
+  # #     show_more_url: archive.html
 
-  - title: rss
-    url: feed.xml
+  # - title: posts by category
+  #   post_list:
+  #     category: example2
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: example2-archive.html
+
+  # - title: rss
+  #   url: feed.xml
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+  # - title: another list
+  #   entries:
+  #     - title: with subitems
+  #       entries:
+  #         - title: with subsubitems
+  #         - title: example page
+  #           url: about
+  # - title: PRO TIP
+  #   entries:
+  #     - title: to edit this menu, edit _data/menu.yml file
