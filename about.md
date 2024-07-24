@@ -4,8 +4,7 @@ title: about me
 ---
 
 ### Seraphina Fong (邝美玉)
-Research Fellow
-Department of Psychology and Cognitive Science
+Research Fellow @ Department of Psychology and Cognitive Science
 University of Trento, Italy
 
 <a href='mailto:meiyueseraphina.fong@unitn.it'>Email</a>
