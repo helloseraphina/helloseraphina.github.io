@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Highlights
+title: highlights
 ---
 - October 2023: I graduated with honours and obtained a M.Sc. in Cognitive Science from the the University of Trento, Italy. My thesis focused on investigating the feasibility of speaker-independent deep learning voice conversion approaches to improve speech from English speaking <a href='http://www.isle.illinois.edu/sst/data/UASpeech/index.html'>patients with dysarthria</a>. I was supervised by <a href='https://scholar.google.it/citations?user=dS643iQAAAAJ&hl=en'>Dr. Alessio Brutti</a> and <a href='https://scholar.google.it/citations?hl=en&user=ehhpFjQAAAAJ'>Dr. Gianluca Esposito</a>
 
