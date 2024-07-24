@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: about me
 ---
 
 ### Seraphina Fong (邝美玉)
@@ -9,6 +9,10 @@ Department of Psychology and Cognitive Science
 University of Trento, Italy
 
 <a href='mailto:meiyueseraphina.fong@unitn.it'>Email</a>
+
+**Professional Interests**
+- AI for social good; inclusive and accessible AI
+- More broadly: artificial intelligence, natural language processing, speech technology, language technology, and brain-computer interfaces
 
 **Academic History & Employment**
 - **10/2023-Present**: Research Fellow, University of Trento, Italy
