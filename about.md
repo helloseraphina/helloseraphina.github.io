@@ -11,7 +11,8 @@ University of Trento, Italy
 <a href='mailto:meiyueseraphina.fong@unitn.it'>Email</a>
 
 **Professional Interests**
-- AI for social good; inclusive and accessible AI
+- AI for social good
+- Inclusive and accessible AI
 - More broadly: artificial intelligence, natural language processing, speech technology, language technology, and brain-computer interfaces
 
 **Academic History & Employment**
