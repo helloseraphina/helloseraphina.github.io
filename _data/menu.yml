@@ -54,3 +54,5 @@
   # - title: PRO TIP
   #   entries:
   #     - title: to edit this menu, edit _data/menu.yml file
+  #     - title: to include images
+  #          - <img style="max-height:300px;display:block;margin:1.0rem auto" src="IMG LINK"/>
