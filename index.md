@@ -2,7 +2,9 @@
 layout: home
 ---
 
-Hello! I'm Seraphina Fong (邝美玉), a Research Fellow at the University of Trento, Italy. I implement natural language processing and computer vision techniques for clinical psychology and healthcare research.
+Hello! I'm Seraphina Fong (邝美玉), a PhD student in Information Engineering and Computer Science at the University of Trento, Italy and within the [SpeechTek Lab](https://speechtek.fbk.eu/) at Fondazione Bruno Kessler (FBK). 
+
+Broadly speaking, my research is focused on multilingual and multimodal automatic speech recognition. I am supervised by Dr. [Alessio Brutti](https://scholar.google.com/citations?user=dS643iQAAAAJ&hl=en).
 
 - [About me](about)
 - [Highlights](highlights)
